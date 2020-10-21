@@ -2,7 +2,6 @@
 title: "Computational Reproducibility Homework"
 author: "Maaz Asher Khurram"
 date: "10/21/2020"
-output: html_document
 user: asheus 
 
 ---
