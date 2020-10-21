@@ -28,9 +28,8 @@ DONE
 
 2) Please describe one of the ways that Wilson et. al. suggest is a good practice for computational reproducibility and how a tool like R can be used. Write your answer below.
 
+++ Wilson et. al. explain that writing modular code is key. This means that the code needs to be readable, reusable, and testable. In order to get to this point the authors suggest having concise single-purpose functions with well defined inputs and outputs. To increase reproducibility, they suggest including at least an example of how the program is used as a comment. They also recommend defining functions so they can be reusable. This way the program will be concise and easy to follow when someone else runs it at a later timepoint. 
 
-
-Wilson et. al. explain that writing modular code is key. This means that the code needs to be readable, reusable, and testable. In order to get to this point the authors suggest having concise single-purpose functions with well defined inputs and outputs. To increase reproducibility, they suggest including at least an example of how the program is used as a comment. They also recommend defining functions so they can be reusable. This way the program will be concise and easy to follow when someone else runs it at a later timepoint. 
 
 3) Add a code chunk and find the square root of 4 to the 13th power. If you are unsure of what command to use, google it. 
 
